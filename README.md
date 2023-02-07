@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá!! Gabriel Dev Aqui!! 
 
-<!--
-**GabrielAzevedoDev/GabrielAzevedoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📘 Estudando Javascript e Csharp 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielazevedodev&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielazevedodev&show_icons=true&theme=radical"/>
+  </div>
+  
+  <div>
+ <img height=" 60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </div>
