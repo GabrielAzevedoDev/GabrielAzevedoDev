@@ -1,8 +1,8 @@
-### Olá!! Gabriel Dev Aqui!! 
+## Olá!! Gabriel Dev Aqui!! 
 
-<h3>- 📘 Estudando Javascript e Csharp</h3> 
+## - 📘 Estudando Javascript e Cshar
 
-
+<br><br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielazevedodev&count_private=true&theme=radical"/>
