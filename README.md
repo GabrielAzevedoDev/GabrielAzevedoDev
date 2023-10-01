@@ -1,6 +1,6 @@
 ## Olá!! Gabriel Dev Aqui!! 
 
-## - 📘 Estudando JavaScript e CSharp
+## - 📘 Estudando JavaScript
 
 <br><br>
 
