@@ -1,6 +1,7 @@
 ## Olá!! Gabriel Dev Aqui!! 
 
 ## - 📘 Estudando JavaScript
+## - Linkedln - https://www.linkedin.com/in/gabriel-oliveira-b69287299/
 
 <br><br>
 
